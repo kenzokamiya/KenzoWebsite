@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design &#8211; Kenzo Kamiya</title>
+	<atom:link href="https://kenzokamiya.github.io/KenzoWebsite/category/design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kenzokamiya.github.io/KenzoWebsite</link>
+	<description>Mechanical Engineering Student</description>
+	<lastBuildDate>
+	Thu, 16 May 2019 15:02:46 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Electric Skateboard: Concept Generation and Evaluation (pt. 2)</title>
+		<link>https://kenzokamiya.github.io/KenzoWebsite/auto-draft/</link>
+				<comments>https://kenzokamiya.github.io/KenzoWebsite/auto-draft/#respond</comments>
+				<pubDate>Sat, 30 Mar 2019 14:43:31 +0000</pubDate>
+		<dc:creator><![CDATA[kkamiya]]></dc:creator>
+				<category><![CDATA[Skateboard]]></category>
+
+		<guid isPermaLink="false">http://localhost/KenzoWordPress/?p=419</guid>
+				<description><![CDATA[
+						]]></description>
+								<content:encoded><![CDATA[		<div data-elementor-type="post" data-elementor-id="419" class="elementor elementor-419" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-1c07a49 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="1c07a49" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-15a6d27 elementor-column elementor-col-100 elementor-top-column" data-id="15a6d27" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ceeffd8 elementor-widget elementor-widget-text-editor" data-id="ceeffd8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>In the earlier blog post I discussed the first phase of the design process, benchmarking, and now I will be moving on to the second phase, concept generation and evaluation. This is personally my favorite step of the whole process. Designing and iterating is where its at. Manufacturing products is fun but a little pricier than I would like.</p><p>I went ahead and collected the skateboard that I will be converting to an electric one. Luckily, I was able to buy an old one from a friend for $25. While its smaller dimensions compared to a regular longboard is concerning, I am sure that I will be able to design around it. Let’s begin with designing the motor mount.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-17f6e91 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="17f6e91" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4c0b193 elementor-column elementor-col-50 elementor-top-column" data-id="4c0b193" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-102bb9a elementor-widget elementor-widget-image" data-id="102bb9a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="240" height="320" src="https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/skatenboard2.jpg" class="attachment-large size-large" alt="" srcset="https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/skatenboard2.jpg 240w, https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/skatenboard2-225x300.jpg 225w" sizes="(max-width: 240px) 100vw, 240px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-d79154a elementor-column elementor-col-50 elementor-top-column" data-id="d79154a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c13abd8 elementor-widget elementor-widget-image" data-id="c13abd8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="240" height="320" src="https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/skateboard1.jpg" class="attachment-large size-large" alt="" srcset="https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/skateboard1.jpg 240w, https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/skateboard1-225x300.jpg 225w" sizes="(max-width: 240px) 100vw, 240px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-85734c1 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="85734c1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4a02631 elementor-column elementor-col-100 elementor-top-column" data-id="4a02631" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b87316e elementor-widget elementor-widget-heading" data-id="b87316e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Designing Motor Mounts</h4>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-edc3a44 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="edc3a44" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-63aec4e elementor-column elementor-col-100 elementor-top-column" data-id="63aec4e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-cf2c6c8 elementor-widget elementor-widget-text-editor" data-id="cf2c6c8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><span style="font-size: 15px;">In design it is best to iterate. By just creating bunch of different ideas through brainstorming I just find it easier to choose the best one. Here are several ideas that I have come with.</span></p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-3c6116f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3c6116f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b6d329c elementor-column elementor-col-50 elementor-top-column" data-id="b6d329c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-a88355c elementor-widget elementor-widget-image" data-id="a88355c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="400" height="209" src="https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/1.jpg" class="attachment-large size-large" alt="" srcset="https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/1.jpg 400w, https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/1-300x157.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-957a6a7 elementor-widget elementor-widget-heading" data-id="957a6a7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Design #1</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-f02eeb7 elementor-column elementor-col-50 elementor-top-column" data-id="f02eeb7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-edf6d6f elementor-widget elementor-widget-image" data-id="edf6d6f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="320" height="149" src="https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/3.jpg" class="attachment-large size-large" alt="" srcset="https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/3.jpg 320w, https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/3-300x140.jpg 300w" sizes="(max-width: 320px) 100vw, 320px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9d5ce62 elementor-widget elementor-widget-heading" data-id="9d5ce62" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><br><br>Design #2</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7a61acc elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7a61acc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e0a6e90 elementor-column elementor-col-100 elementor-top-column" data-id="e0a6e90" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6bfd25e elementor-widget elementor-widget-image" data-id="6bfd25e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="640" height="185" src="https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/2.jpg" class="attachment-large size-large" alt="" srcset="https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/2.jpg 640w, https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/2-300x87.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4f34fa3 elementor-widget elementor-widget-heading" data-id="4f34fa3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Design #3</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-98dba06 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="98dba06" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e6f1bd8 elementor-column elementor-col-100 elementor-top-column" data-id="e6f1bd8" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-baf1c18 elementor-widget elementor-widget-text-editor" data-id="baf1c18" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>In design it is best to iterate. By just creating bunch of different ideas through brainstorming I just find it easier to choose the best one. Here are several ideas that I have come with.</p><p><strong>Design #1</strong></p><p>Design 1 is a motor mount that is built right into the truck. The motor will then be easily mounted on top of the machined part without any addition. Because the entire thing is machined together</p><p> </p><p> </p><p>Design 1 machines a completely new set of trucks where the engine can be mounted onto easily. The issue with this design would be the necessity of manufacturing the entire part by myself. Milling the device by hand would be highly impractical. Getting all the different angles necessary to create the device would be difficult. This is further exacerbated by the fact that each angle in the truck has to be exactly right in order to work effectively.  On the other hand, a custom-made set of trucks would greatly simplify assembly.</p><p><strong>Design # 2</strong></p><p> </p><p> </p><p>This design proposes to instead of making a completely new truck, the user attaches a motor mount to the truck. The mount would allow for small changes in the design without compromising the work done previously. Machining a motor mount would be simple compared to design 1. Even so, the mounting of this device will prove to be a little challenging. The typical design of a truck involves a significant amount of curves. In order to clamp down the mount there needs to be a straight edge area. Either I will have to buy a new set of matching trucks that have the design that I want or I mill down the current trucks into what I want. Milling the trucks down is not ideal because that could compromise the strength of the truck and down the line lead to critical failure/ buckling.</p><p> </p><p><strong>Design #3</strong></p><p> </p><p> </p><p> </p><p>Mount the object directly onto the skateboard using a custom designed motor mount. While this would simplify the mounting process significantly, I cannot be sure that the belt will stay on whenever the board turns. Just buy riding the skateboard it is clear to me that the trucks and board do not move the same amount. Therefore, the distance between the motor and the wheel will fluctuate a significant amount over time. Having the belt fall off due to this change of distance would be inevitable. Its clear that this design would need a significant amount of testing to be sure that it works consistently. I cannot see myself being able to design an effective product with this.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-33b35c2 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="33b35c2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3ff9ef7 elementor-column elementor-col-100 elementor-top-column" data-id="3ff9ef7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c3ab279 elementor-widget elementor-widget-heading" data-id="c3ab279" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Decision Matrix</h4>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-068bba0 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="068bba0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c613d67 elementor-column elementor-col-100 elementor-top-column" data-id="c613d67" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-540e1d2 elementor-widget elementor-widget-text-editor" data-id="540e1d2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>With several methods available to mount the motor it is now necessary to decide which one would be the best for our purposes. Of the three design choices, only two are viable. To help decide I will be using a decision matrix. A decision matrix helps users make the best decision by evaluating the strengths and weaknesses of each design. Depending on how important each part is, a different value for the weight will be assigned. Then either 1, 0, -1 is given to the product depending on how well it meets the criteria.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-cd4ae0f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="cd4ae0f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-9dd51a6 elementor-column elementor-col-100 elementor-top-column" data-id="9dd51a6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5e72175 elementor-widget elementor-widget-text-editor" data-id="5e72175" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><table class="MsoNormalTable" style="width: 0in;" border="0" width="0" cellspacing="0" cellpadding="0"><tbody><tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 15.75pt;"><td style="border-width: 1pt; border-top-style: solid; border-right-style: solid; border-left-style: solid; border-color: #cccccc; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"> </td><td style="border-top: 1pt solid #cccccc; border-left: none; border-bottom-width: 1.5pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"> </td><td style="border-top: 1.5pt solid black; border-right: 1.5pt solid black; border-bottom-width: 1.5pt; border-bottom-color: black; border-left: none; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">Weights</span></p></td><td style="border-top: 1.5pt solid black; border-right: 1.5pt solid black; border-bottom-width: 1.5pt; border-bottom-color: black; border-left: none; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">New Trucks</span></p></td><td style="border-top: 1.5pt solid black; border-right: 1.5pt solid black; border-bottom-width: 1.5pt; border-bottom-color: black; border-left: none; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">Motor Mount</span></p></td></tr><tr style="mso-yfti-irow: 1; height: 15.75pt;"><td style="border-top: none; border-left: 1.5pt solid black; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" colspan="2" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">Device must be durable</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; background: #daeef3; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><b><span style="font-family: 'Garamond',serif;">5</span></b></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">1</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">0</span></p></td></tr><tr style="mso-yfti-irow: 2; height: 15.75pt;"><td style="border-top: none; border-left: 1.5pt solid black; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" colspan="2" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">Device must be easy to Install</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; background: #daeef3; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><b><span style="font-family: 'Garamond',serif;">5</span></b></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">1</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">-1</span></p></td></tr><tr style="mso-yfti-irow: 3; height: 15.75pt;"><td style="border-top: none; border-left: 1.5pt solid black; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" colspan="2" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">Motor must be easy to mount</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; background: #daeef3; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><b><span style="font-family: 'Garamond',serif;">5</span></b></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">-1</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">1</span></p></td></tr><tr style="mso-yfti-irow: 4; height: 15.75pt;"><td style="border-top: none; border-left: 1.5pt solid black; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" colspan="2" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">Device must allow for board turning</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; background: #daeef3; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><b><span style="font-family: 'Garamond',serif;">15</span></b></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">1</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">1</span></p></td></tr><tr style="mso-yfti-irow: 5; height: 15.75pt;"><td style="border-top: none; border-left: 1.5pt solid black; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" colspan="2" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">Device must be easy to make</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; background: #daeef3; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><b><span style="font-family: 'Garamond',serif;">15</span></b></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">0</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">1</span></p></td></tr><tr style="mso-yfti-irow: 6; height: 15.75pt;"><td style="border-top: none; border-left: 1.5pt solid black; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" colspan="2" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">Device must be cost effective</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; background: #daeef3; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><b><span style="font-family: 'Garamond',serif;">5</span></b></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">0</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">1</span></p></td></tr><tr style="mso-yfti-irow: 7; height: 15.75pt;"><td style="border-right: 1pt solid #cccccc; border-bottom-width: 1pt; border-left: 1pt solid #cccccc; border-bottom-color: #cccccc; border-top: none; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"> </td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: #cccccc; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"> </td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">Total</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">1</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">3</span></p></td></tr><tr style="mso-yfti-irow: 8; mso-yfti-lastrow: yes; height: 15.75pt;"><td style="border-right: 1pt solid #cccccc; border-bottom-width: 1pt; border-left: 1pt solid #cccccc; border-bottom-color: #cccccc; border-top: none; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"> </td><td style="border-top: none; border-left: none; border-bottom-width: 1pt; border-bottom-color: #cccccc; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"> </td><td style="border-top: none; border-left: none; border-bottom-width: 1.5pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">Weighted Total</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1.5pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">20</span></p></td><td style="border-top: none; border-left: none; border-bottom-width: 1.5pt; border-bottom-color: black; border-right: 1.5pt solid black; padding: 1.5pt 2.25pt; height: 15.75pt;" valign="bottom"><p class="MsoNormal"><span style="font-family: 'Garamond',serif;">35</span></p></td></tr></tbody></table></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-e206253 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="e206253" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-26f2985 elementor-column elementor-col-100 elementor-top-column" data-id="26f2985" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-59dd653 elementor-widget elementor-widget-text-editor" data-id="59dd653" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>From the decision matrix it is clear that the motor mount is the best idea I have so far. Therefore, the rest of the design process will be using this as the primary idea. Part 3 of this electric skateboard series will be discussing the engineering models and the specifications necessary to make a functional device</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		]]></content:encoded>
+							<wfw:commentRss>https://kenzokamiya.github.io/KenzoWebsite/auto-draft/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Electric Skateboard: Product Design (Pt. 1)</title>
+		<link>https://kenzokamiya.github.io/KenzoWebsite/electric-skateboard-1/</link>
+				<comments>https://kenzokamiya.github.io/KenzoWebsite/electric-skateboard-1/#respond</comments>
+				<pubDate>Wed, 27 Mar 2019 01:33:03 +0000</pubDate>
+		<dc:creator><![CDATA[kkamiya]]></dc:creator>
+				<category><![CDATA[Skateboard]]></category>
+
+		<guid isPermaLink="false">http://localhost/KenzoWordPress/?p=409</guid>
+				<description><![CDATA[
+						]]></description>
+								<content:encoded><![CDATA[		<div data-elementor-type="post" data-elementor-id="409" class="elementor elementor-409" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-89324ab elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="89324ab" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b4e8598 elementor-column elementor-col-100 elementor-top-column" data-id="b4e8598" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2fe4282 elementor-widget elementor-widget-image" data-id="2fe4282" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="683" src="https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/boosted-electric-longboard-chinatown-1-e1434605596634-1024x683.jpg" class="attachment-large size-large" alt="" srcset="https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/boosted-electric-longboard-chinatown-1-e1434605596634-1024x683.jpg 1024w, https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/boosted-electric-longboard-chinatown-1-e1434605596634-300x200.jpg 300w, https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/boosted-electric-longboard-chinatown-1-e1434605596634-768x512.jpg 768w, https://kenzokamiya.github.io/KenzoWebsite/wp-content/uploads/2019/03/boosted-electric-longboard-chinatown-1-e1434605596634.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-5ddeb80 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5ddeb80" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-773cafa elementor-column elementor-col-100 elementor-top-column" data-id="773cafa" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-65dd9a4 elementor-widget elementor-widget-text-editor" data-id="65dd9a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Welcome to my first solo design project. For this project I will be designing and manufacturing an electric skateboard. Why? I thought it would be fun and I assume it wouldn’t take up a significant amount of time. I also wanted to have an electric skateboard without having to pay $1000 to firms. These blog posts will be broken into multiple parts to make the information digestible.</p>
+<p>Designing and manufacturing a product takes the right kind of mindset and technical knowledge. As I have learned within the Purdue class, ME 263 (Intro to ME design, innovation, and entrepreneurship), engineering design is not a cake walk. In order to ensure success, a framework of development needs to be followed. Three steps I will be taking throughout this project are: problem definition, concept generation and evaluation, and product design. This first port will be talking exclusively about phase 1.</p>
+<p></p>
+<p><strong>Phase 1: Product Design</strong></p>
+<p>“There is no such thing as a new idea. It is impossible. We simply take a lot of old ideas and put them into a sort of mental kaleidoscope. We give them a turn and they make new and curious combinations.” – Mark Twain</p>
+<p>I am not here to create something new. What I am trying to do is emulate the concepts of those that came before me and improving upon them. In order to understand the direction that I would have to take, it becomes necessary to conduct market research/ benchmarking.</p>
+<p>While the most famous company producing electric boards is Boosted Boards, one can’t ignore the competition. Here I have compiled a table of the characters each of these flagship products have. &nbsp;&nbsp;These will give us a clear idea as to what needs to be surpassed to create a superior product.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4860838 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4860838" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1e3dee0 elementor-column elementor-col-100 elementor-top-column" data-id="1e3dee0" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c78b1f2 elementor-widget elementor-widget-heading" data-id="c78b1f2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Benchmarking specifications of Electric Skateboards</h4>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-fcea07a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="fcea07a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-46161c0 elementor-column elementor-col-100 elementor-top-column" data-id="46161c0" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-ae4b8ee elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="ae4b8ee" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1e78032 elementor-column elementor-col-100 elementor-top-column" data-id="1e78032" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-49cbbdf elementor-widget elementor-widget-text-editor" data-id="49cbbdf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Here comes the interesting part, designing the motor and the method of drive. In order to get some insight into this portion of the project it is once again pest to look at what the competition is doing. All designs I have reviewed incorporate a belt drive system to put the board in motion. The motors that are being used are either single or dual out runner models. While there are some fringe skateboards that directly incorporate the motor into the wheel (Mellow boards), the design choice requires more processing than the regular one. These motors are then controlled by either a RC controller or a phone app.</p><p>These insights give me the ground work to get started in the project. The final design of the skateboard should incorporate a belt drive and a motor that will not stall under my weight. Now we can move on to phase 2, concept generation and evaluation.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		]]></content:encoded>
+							<wfw:commentRss>https://kenzokamiya.github.io/KenzoWebsite/electric-skateboard-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
